@@ -1,5 +1,5 @@
 import numpy as np
-
+#class Logistic Regression
 class LogisticRegression:
     def __init__(self,lr=0.01,num_iter=1000000,fit_intercept=True,verbose=False):
         self.lr = lr
